@@ -1,69 +1,69 @@
-# Hi, I'm Manuel Alejandro Delgado ðŸ‘‹
+# Hi, I'm Manuel Alejandro Delgado 👋
 
-### Systems Engineer Â· Windows Platform Developer Â· Automation Architect
-### ðŸ“ Available for Remote Work Â· Open to Contracts & Full-Time Roles
+### Systems Engineer - Windows Platform Developer - Automation Architect
+### Available for Remote Work - Open to Contracts & Full-Time Roles
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=600&lines=Building+sovereign+Windows+software;Native+C%2B%2B+%26+C%23+developer;Cloud+infrastructure+%26+automation;Available+for+remote+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=620&lines=Building+sovereign+Windows+software;Native+C%2B%2B+%26+C%23+developer;Cloud+infrastructure+%26+automation;Available+for+remote+opportunities)](https://git.io/typing-svg)
 
-I build **production-grade Windows software and cloud infrastructure** from scratch. My work ranges from native C++ browser engines to enterprise-grade system optimization suites â€” all designed to ship, not just demo.
+I build **production-grade Windows software and cloud infrastructure** from scratch. My work ranges from native C++ browser engines to enterprise-grade system optimization suites.
 
-I'm actively seeking **remote roles** in:  
-`Windows Platform Development` Â· `Systems Engineering` Â· `IT Automation` Â· `DevOps/Cloud Infrastructure`
-
----
-
-## ðŸš€ What I've Built
-
-### [LogicFlow](https://github.com/DelgadoLogic/logicflow-core) â€” AI-Powered Windows Optimization Suite
-> *C# Â· WPF Â· .NET 8 Â· Windows Services Â· WMI Â· Firebase*
-
-A **commercial-grade Windows utility** with a modular, plugin-architecture across 10 specialized C# libraries:
-- **Real-time system monitoring** â€” CPU, RAM, Disk, telemetry (1-second live pulse)
-- **Hardware-bound licensing engine** â€” Ed25519 signatures, SHA-256 device fingerprinting
-- **Sovereign auto-updater** â€” Ed25519-signed manifests from GCP Cloud Run update server
-- **Registry surgeon** â€” Safe, transactional Windows registry optimization
-- **Background agent service** â€” Windows Service with WMI event triggers
-
-ðŸ“¦ `v0.1.0-foundation` released Â· NSIS installer Â· Inno Setup packaging pipeline
+I am actively seeking **remote roles** in:
+Windows Platform Development - Systems Engineering - IT Automation - DevOps / Cloud Infrastructure
 
 ---
 
-### [Aeon Browser](https://github.com/DelgadoLogic/aeon-engine) â€” Sovereign Chromium Browser Shell
-> *C++ Â· Win32 API Â· CMake Â· Chromium Engine Â· Rust Â· WolfSSL*
+## What I've Built
 
-A **native Win32 browser** built on a custom Chromium fork â€” not a wrapper, a real browser:
-- Tier-dispatched engine architecture (hardware probes decide which engine tier loads)
-- Custom protocol handler (`aeon://`) with TLS certificate pinning
-- Integrated Tor/i2pd routing layer for sovereign, private browsing
-- Built with GN/Ninja Chromium build system Â· Docker build environment on GCP
+### [LogicFlow](https://github.com/DelgadoLogic/logicflow-core) - AI-Powered Windows Optimization Suite
+> *C# - WPF - .NET 8 - Windows Services - WMI - Firebase*
 
----
+A **commercial-grade Windows utility** with a modular plugin architecture across 10 specialized C# libraries:
+- **Real-time system monitoring** - CPU, RAM, Disk, telemetry (1-second live pulse)
+- **Hardware-bound licensing engine** - Ed25519 signatures, SHA-256 device fingerprinting
+- **Sovereign auto-updater** - Ed25519-signed manifests from GCP Cloud Run update server
+- **Registry surgeon** - Safe, transactional Windows registry optimization
+- **Background agent service** - Windows Service with WMI event triggers
 
-### [DelgadoLogic Infrastructure](https://github.com/Chronolapse411/DelgadoLogic-Infrastructure) â€” Automated Fulfillment Pipeline
-> *Firebase Â· Node.js Â· PayPal REST API Â· Firestore*
-
-- Zero-touch digital product delivery triggered by PayPal webhooks
-- Multi-subdomain SOA: `api.` Â· `docs.` Â· `audit.delgadologic.tech`
-- Tokenized secure asset delivery with Firestore-backed state tracking
+0.1.0-foundation released - NSIS/Inno Setup installer pipeline
 
 ---
 
-## ðŸ’» Tech Stack
+### [Aeon Browser](https://github.com/DelgadoLogic/aeon-engine) - Sovereign Chromium Browser Shell
+> *C++ - Win32 API - CMake - Chromium Engine - Rust - WolfSSL*
 
-**Languages**  
+A **native Win32 browser** built on a custom Chromium fork:
+- Tier-dispatched engine architecture (hardware probe selects engine at runtime)
+- Custom protocol handler (eon://) with TLS certificate pinning
+- Integrated Tor/i2pd routing for private, sovereign browsing
+- Built with GN/Ninja Chromium build system on Docker/GCP
+
+---
+
+### [DelgadoLogic Infrastructure](https://github.com/Chronolapse411/DelgadoLogic-Infrastructure) - Fulfillment Pipeline (Legacy)
+> *Firebase - Node.js - PayPal REST API - Firestore*
+
+- Zero-touch digital product delivery via PayPal webhooks
+- Multi-subdomain SOA: pi. / docs. / udit.delgadologic.tech
+- Tokenized secure asset delivery with real-time Firestore state tracking
+
+---
+
+## Tech Stack
+
+**Languages**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Platform & Frameworks**  
+**Platform & Frameworks**
 ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
 ![Win32](https://img.shields.io/badge/Win32_API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
-**Cloud & DevOps**  
+**Cloud & DevOps**
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -71,7 +71,7 @@ A **native Win32 browser** built on a custom Chromium fork â€” not a wrappe
 
 ---
 
-## ðŸ“Š GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Chronolapse411&show_icons=true&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=2563eb" height="165" />
@@ -80,18 +80,18 @@ A **native Win32 browser** built on a custom Chromium fork â€” not a wrappe
 
 ---
 
-## ðŸŽ“ Education & Certifications
+## Education & Certifications
 
-- ðŸŽ“ **B.S. IT Management** â€” Western Governors University *(Starting Sept 2026)*
-- ðŸ”µ **Google IT Support Professional Certificate** â€” *In Progress*
-- ðŸŸ¡ **Google Project Management Certificate** â€” *In Progress*
-- ðŸ“Š **Google Data Analytics Certificate** â€” *Planned*
+- **B.S. IT Management** - Western Governors University *(Starting Sept 2026)*
+- **Google IT Support Professional Certificate** - *In Progress*
+- **Google Project Management Certificate** - *In Progress*
+- **Google Data Analytics Certificate** - *Planned*
 
 ---
 
-## ðŸ¤ Let's Work Together
+## Let's Work Together
 
-I'm actively looking for **remote opportunities** â€” contract, freelance, or full-time:
+I am actively looking for **remote opportunities** - contract, freelance, or full-time:
 
 | Role | Skills |
 |---|---|
@@ -106,4 +106,4 @@ I'm actively looking for **remote opportunities** â€” contract, freelance, 
 
 ---
 
-> *"I don't just write code â€” I engineer systems that keep running when everything else breaks."*
+> *"I don't just write code - I engineer systems that keep running when everything else breaks."*
