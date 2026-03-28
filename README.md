@@ -1,4 +1,4 @@
-# Hi, I'm Manuel Alejandro Delgado 👋
+# Hi, I'm Manuel Alejandro Delgado
 
 ### Systems Engineer - Windows Platform Developer - Automation Architect
 ### Available for Remote Work - Open to Contracts & Full-Time Roles
@@ -24,7 +24,7 @@ A **commercial-grade Windows utility** with a modular plugin architecture across
 - **Registry surgeon** - Safe, transactional Windows registry optimization
 - **Background agent service** - Windows Service with WMI event triggers
 
-0.1.0-foundation released - NSIS/Inno Setup installer pipeline
+v0.1.0-foundation released - NSIS/Inno Setup installer pipeline
 
 ---
 
@@ -33,7 +33,7 @@ A **commercial-grade Windows utility** with a modular plugin architecture across
 
 A **native Win32 browser** built on a custom Chromium fork:
 - Tier-dispatched engine architecture (hardware probe selects engine at runtime)
-- Custom protocol handler (eon://) with TLS certificate pinning
+- Custom protocol handler (aeon://) with TLS certificate pinning
 - Integrated Tor/i2pd routing for private, sovereign browsing
 - Built with GN/Ninja Chromium build system on Docker/GCP
 
@@ -43,7 +43,7 @@ A **native Win32 browser** built on a custom Chromium fork:
 > *Firebase - Node.js - PayPal REST API - Firestore*
 
 - Zero-touch digital product delivery via PayPal webhooks
-- Multi-subdomain SOA: pi. / docs. / udit.delgadologic.tech
+- Multi-subdomain SOA: api / docs / audit.delgadologic.tech
 - Tokenized secure asset delivery with real-time Firestore state tracking
 
 ---
@@ -51,6 +51,7 @@ A **native Win32 browser** built on a custom Chromium fork:
 ## Tech Stack
 
 **Languages**
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -58,12 +59,14 @@ A **native Win32 browser** built on a custom Chromium fork:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Platform & Frameworks**
+
 ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
 ![Win32](https://img.shields.io/badge/Win32_API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 **Cloud & DevOps**
+
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -82,10 +85,10 @@ A **native Win32 browser** built on a custom Chromium fork:
 
 ## Education & Certifications
 
-- **B.S. IT Management** - Western Governors University *(Starting Sept 2026)*
-- **Google IT Support Professional Certificate** - *In Progress*
-- **Google Project Management Certificate** - *In Progress*
-- **Google Data Analytics Certificate** - *Planned*
+- **B.S. IT Management** - Western Governors University (Starting Sept 2026)
+- **Google IT Support Professional Certificate** - In Progress
+- **Google Project Management Certificate** - In Progress
+- **Google Data Analytics Certificate** - Planned
 
 ---
 
