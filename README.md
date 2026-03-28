@@ -1,54 +1,70 @@
-# Hi, I'm Manuel Alejandro Delgado
+<!-- Profile views counter -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Chronolapse411&color=2563eb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
-### Systems Engineer - Windows Platform Developer - Automation Architect
-### Available for Remote Work - Open to Contracts & Full-Time Roles
+# Hi, I'm Manuel Alejandro Delgado :wave:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=620&lines=Building+sovereign+Windows+software;Native+C%2B%2B+%26+C%23+developer;Cloud+infrastructure+%26+automation;Available+for+remote+opportunities)](https://git.io/typing-svg)
+#### :round_pushpin: United States &nbsp;|&nbsp; :green_circle: **Open to Remote Work — Full-Time, Contract & Freelance**
 
-I build **production-grade Windows software and cloud infrastructure** from scratch. My work ranges from native C++ browser engines to enterprise-grade system optimization suites.
+> Systems Engineer building **commercial Windows software** and **cloud infrastructure** from scratch.
+> Currently shipping [LogicFlow](https://github.com/DelgadoLogic/logicflow-core) (Windows optimizer) and [Aeon Browser](https://github.com/DelgadoLogic/aeon-engine) (native C++ browser engine).
 
-I am actively seeking **remote roles** in:
-Windows Platform Development - Systems Engineering - IT Automation - DevOps / Cloud Infrastructure
-
----
-
-## What I've Built
-
-### [LogicFlow](https://github.com/DelgadoLogic/logicflow-core) - AI-Powered Windows Optimization Suite
-> *C# - WPF - .NET 8 - Windows Services - WMI - Firebase*
-
-A **commercial-grade Windows utility** with a modular plugin architecture across 10 specialized C# libraries:
-- **Real-time system monitoring** - CPU, RAM, Disk, telemetry (1-second live pulse)
-- **Hardware-bound licensing engine** - Ed25519 signatures, SHA-256 device fingerprinting
-- **Sovereign auto-updater** - Ed25519-signed manifests from GCP Cloud Run update server
-- **Registry surgeon** - Safe, transactional Windows registry optimization
-- **Background agent service** - Windows Service with WMI event triggers
-
-v0.1.0-foundation released - NSIS/Inno Setup installer pipeline
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=620&lines=Windows+Platform+Developer+%7C+C%23+%26+C%2B%2B;Native+browser+engine+from+scratch;GCP+%26+Firebase+cloud+infrastructure;Open+to+remote+roles+worldwide)](https://git.io/typing-svg)
 
 ---
 
-### [Aeon Browser](https://github.com/DelgadoLogic/aeon-engine) - Sovereign Chromium Browser Shell
-> *C++ - Win32 API - CMake - Chromium Engine - Rust - WolfSSL*
+## :hammer_and_wrench: What I've Built
 
-A **native Win32 browser** built on a custom Chromium fork:
-- Tier-dispatched engine architecture (hardware probe selects engine at runtime)
-- Custom protocol handler (aeon://) with TLS certificate pinning
-- Integrated Tor/i2pd routing for private, sovereign browsing
-- Built with GN/Ninja Chromium build system on Docker/GCP
+### :rocket: [LogicFlow](https://github.com/DelgadoLogic/logicflow-core) — AI-Powered Windows Optimization Suite
+> **C# · WPF · .NET 8 · Windows Services · WMI · Firebase · GCP**
 
----
+Commercial-grade Windows utility with a modular shared-runtime architecture (10 C# libraries):
+- **Real-time system monitoring** — CPU, RAM, Disk telemetry (1-second live pulse)
+- **Hardware-bound licensing** — Ed25519 signatures, SHA-256 device fingerprinting
+- **Sovereign auto-updater** — signed manifests fetched from GCP Cloud Run
+- **Registry surgeon** — safe, transactional Windows registry optimization
+- **Background Windows Service** — WMI event triggers, zero user interaction required
 
-### [DelgadoLogic Infrastructure](https://github.com/Chronolapse411/DelgadoLogic-Infrastructure) - Fulfillment Pipeline (Legacy)
-> *Firebase - Node.js - PayPal REST API - Firestore*
-
-- Zero-touch digital product delivery via PayPal webhooks
-- Multi-subdomain SOA: api / docs / audit.delgadologic.tech
-- Tokenized secure asset delivery with real-time Firestore state tracking
+[![Release](https://img.shields.io/github/v/release/DelgadoLogic/logicflow-core?style=for-the-badge&color=239120&label=LATEST+RELEASE)](https://github.com/DelgadoLogic/logicflow-core/releases)
+[![Stars](https://img.shields.io/github/stars/DelgadoLogic/logicflow-core?style=for-the-badge&color=2563eb)](https://github.com/DelgadoLogic/logicflow-core)
 
 ---
 
-## Tech Stack
+### :globe_with_meridians: [Aeon Browser](https://github.com/DelgadoLogic/aeon-engine) — Sovereign Native Browser Engine
+> **C++ · Win32 API · CMake · Chromium · Rust · WolfSSL**
+
+Native Win32 browser built on a custom Chromium fork — not a wrapper:
+- Tier-dispatched engine (hardware probes determine which engine tier loads at startup)
+- Custom aeon:// protocol handler with TLS certificate pinning
+- Integrated Tor/i2pd routing layer for private browsing
+- Built with GN/Ninja on Docker/GCP build infrastructure
+
+[![Repo](https://img.shields.io/badge/Source-aeon--engine-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/DelgadoLogic/aeon-engine)
+
+---
+
+### :link: [DelgadoLogic Infrastructure](https://github.com/Chronolapse411/DelgadoLogic-Infrastructure) — Fulfillment Pipeline (Archived)
+> **Firebase · Node.js · PayPal REST API · Firestore**
+
+Zero-touch digital product delivery pipeline. Archived — core functionality now integrated into LogicFlow.
+
+---
+
+## :bar_chart: GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chronolapse411&show_icons=true&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=2563eb&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chronolapse411&layout=compact&theme=tokyonight&hide_border=true&title_color=2563eb&langs_count=6" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Chronolapse411&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+## :computer: Tech Stack
 
 **Languages**
 
@@ -60,53 +76,51 @@ A **native Win32 browser** built on a custom Chromium fork:
 
 **Platform & Frameworks**
 
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
-![Win32](https://img.shields.io/badge/Win32_API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Win32 API](https://img.shields.io/badge/Win32_API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 **Cloud & DevOps**
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-## GitHub Stats
+## :mortar_board: Education & Certifications
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chronolapse411&show_icons=true&theme=tokyonight&hide_border=true&title_color=2563eb&icon_color=2563eb" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chronolapse411&layout=compact&theme=tokyonight&hide_border=true&title_color=2563eb" height="165" />
-</p>
-
----
-
-## Education & Certifications
-
-- **B.S. IT Management** - Western Governors University (Starting Sept 2026)
-- **Google IT Support Professional Certificate** - In Progress
-- **Google Project Management Certificate** - In Progress
-- **Google Data Analytics Certificate** - Planned
-
----
-
-## Let's Work Together
-
-I am actively looking for **remote opportunities** - contract, freelance, or full-time:
-
-| Role | Skills |
+| Credential | Status |
 |---|---|
-| Windows App Developer | C#, WPF, .NET 8, Win32 |
-| Systems / IT Engineer | WMI, Windows Services, PowerShell |
-| Cloud / DevOps | GCP, Firebase, Docker, GitHub Actions |
-| Backend Developer | Node.js, Firebase Functions, REST APIs |
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-delgado-85096b350/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://delgadologic.tech)
-[![Email](https://img.shields.io/badge/Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@delgadologic.tech)
+| B.S. IT Management — Western Governors University | Starting Sept 2026 |
+| Google IT Support Professional Certificate | In Progress |
+| Google Project Management Certificate | In Progress |
+| Google Data Analytics Certificate | Planned |
 
 ---
 
-> *"I don't just write code - I engineer systems that keep running when everything else breaks."*
+## :handshake: Available for Remote Work
+
+I am actively open to **remote roles** — contract, freelance, or full-time. I work independently and ship real software.
+
+| I Can Help With | Skills |
+|---|---|
+| Windows Desktop App Development | C#, WPF, .NET 8, Win32 API |
+| Systems & IT Engineering | WMI, Windows Services, PowerShell |
+| Cloud Infrastructure / DevOps | GCP, Firebase, Docker, GitHub Actions |
+| Backend / API Development | Node.js, Firebase Functions, REST APIs |
+| Build Pipelines & Automation | PowerShell, GN/Ninja, NSIS, Inno Setup |
+
+:speech_balloon: **I respond within 24 hours.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-delgado-85096b350/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-delgadologic.tech-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://delgadologic.tech)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@delgadologic.tech)
+
+---
+
+<p align="center">
+  <i>"I don't just write code — I engineer systems that keep running when everything else breaks."</i>
+</p>
